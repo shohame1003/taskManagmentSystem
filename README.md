@@ -50,8 +50,8 @@ Modify task information:
 
 Remove a task:
 
-- Delete all tasks: [http://localhost:8083/delete/all](http://localhost:8083/delete/all)
-- Delete a specific task: [http://localhost:8083/delete/no/{id}](http://localhost:8083/delete/no/{id}) (replace `{id}`)
+- Delete all tasks: [http://localhost:8083/delete/all](http://localhost:8080/delete/all)
+- Delete a specific task: [http://localhost:8083/delete/no/{id}](http://localhost:8080/delete/no/{id}) (replace `{id}`)
 
 ## Configuration Details
 
